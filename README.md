@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azxrth
-- 👀 I’m interested in JAVA/C++
-- 🌱 I’m currently learning JAVA, LESS
+- 👀 I’m interested in Laravel/C++
+- 🌱 I’m currently learning Laravel, LESS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
